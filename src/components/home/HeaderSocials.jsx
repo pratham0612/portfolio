@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaGithub, FaFacebookF, FaLinkedinIn, FaTwitter, FaDev } from 'react-icons/fa';
+import { FaGithub, FaLinkedinIn, FaTwitter, FaDev } from 'react-icons/fa';
 import { SiHashnode,SiBuymeacoffee } from 'react-icons/si'
 
 const HeaderSocials = () => {
