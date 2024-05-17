@@ -1,13 +1,13 @@
 <h1 align="center">
   <br>
-  <a href="http://gregsithole.com">
-  <img src="./src/assets/light-logo.svg" alt="Pratham Panchal" width="200"></a>
+  <a href="https://prathampanchal1122.netlify.app/#home">
+  <img src="src/assets/logo_light.svg" alt="Pratham Panchal" width="200"></a>
   <br>
   Pratham Panchal's Personal Website
   <br>
 </h1>
 
-<h4 align="center">A simple personal website about <a href="http://gregsithole.com" target="_blank">Pratham Panchal</a>.</h4>
+<h4 align="center">A simple personal website about <a href="https://prathampanchal1122.netlify.app/#home" target="_blank">Pratham Panchal</a>.</h4>
 
 <br>
 
