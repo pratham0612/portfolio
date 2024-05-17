@@ -6,7 +6,7 @@ import Image1 from '../../assets/blog-1.svg';
 
 const Blog = () => {
     return (
-        /* <section className="blog container section" id="blog">
+        <section className="blog container section" id="blog">
             <h2 className="section__title">Experience </h2>
 
             <div className="blog__container grid">
@@ -25,7 +25,7 @@ const Blog = () => {
                     </div>
                 </div>
             </div>
-        </section>*/
+        </section>
     )
 }
 
